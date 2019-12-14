@@ -1,0 +1,128 @@
+{
+  "Contact": {
+    "jumbotronTitle": "Sign Up Now",
+    "jumbotronSubTitle": "Be one of the first to gain access!",
+    "heading1": "Signing up as a Salesman or a Dealer?",
+    "headingText1": "Select below and let us know how you found us in the message.",
+    "phone": "Direct: (904) 434-1195",
+    "address": "555 Main Street",
+    "cityState": "Boca Raton, FL",
+    "zip": "33555",
+    "submit": "Sign up"
+  },
+  "Footer": {
+    "company": "Easyupp",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "rights": "All Rights reserved.",
+    "categories": [
+      {
+        "text": "Contact Us",
+        "items": [
+          { "text": "sales@easyupp.com", "href": "mailto:sales@easyupp.com" },
+          { "text": "(904) 434-1195", "href": "tel:1-904-434-1195" }
+        ]
+      }
+    ]
+  },
+  "Home": {
+    "jumbotronTitle": "The right car for the right customer... Every time.",
+    "jumbotronSubTitle": "EasyUpp is an online platform that enables a salesperson to sell a car from any dealership.  Salespeople sell their customers the right car and dealers reach all new clients.",
+    "callToActionBtn": "Early Bird Access",
+    "platformHeader": "We believe in relationships.",
+    "platformSubHeader": "We believe any good business is built on trust and value.  When your clients need your help, we will help you find the vehicle they need. ",
+    "cardFeatures": [
+      {
+        "title": "Build something you’re proud of!",
+        "text": "When you can sell any car and only have to focus on helping your customer, repeat and referral business will grow.  We are committed to helping you build a business based on incredible service.",
+        "img": "feature1"
+      },
+      {
+        "title": "Take action!",
+        "text": "We created EasyUpp because we were tired of waiting and hoping.  Waiting for a customer that wanted the cars we had; hoping for a vehicle to be traded that matched what our clients were looking for.  When we had a customer that wanted a vehicle, we wanted to make the deal for them immediately.  We’re biased to action.  Are you?",
+        "img": "feature2"
+      },
+      {
+        "title": "We’re an open book.",
+        "text": "Transparency is one of our core values so if you have a question, please don’t be shy!  Whether you’re interested in becoming an easyupp dealer, advisor, team member or even investor, we encourage you to reach out to us! ",
+        "img": "feature3"
+      }
+    ],
+    "testimonials": [
+      {
+        "author": "James Holloway IV",
+        "title": "General Manager, Westside Hyundai",
+        "quote": "I have worked with and been friends with Jesse, the founder, for over 10 years.  There is no one in our industry who I would trust more to build a platform like this one."
+      },
+      {
+        "author": "Matt Tudor",
+        "title": "Sales Partner",
+        "quote": "I worked at a Ford store for the last 8 years.  I love that I can still help my old customers with EasyUpp even though I’m in management at another brand now."
+      },
+      {
+        "author": "Daniel Tesfaye",
+        "title": "Sales Partner",
+        "quote": "My wife is a realtor and doesn’t have to list a home in order to help someone buy it.  Now I can help my family, friends, and repeat customers buy almost any car.  This makes so much sense!"
+      },
+      {
+        "author": "Paul McArthur",
+        "title": "GSM, Honda of Gainesville",
+        "quote": "As a GSM, I’m always looking for a way to reach more clients.  I believe EasyUpp has the potential to drastically increase our sales."
+      }
+    ]
+  },
+  "Projects": {
+    "projectsTitle": "Projects"
+  },
+  "Search": {
+    "jumbotronTitle": "",
+    "jumbotronSubTitle": ""
+  },
+  "Services": {
+    "jumbotronTitle": "Become a Dealer",
+    "jumbotronSubTitle": "Reach more customers and sell more cars",
+    "heading1": "EasyUpp for dealers",
+    "headingText1": "Te dolor consul mei, etiam molestie indoctum usu ad, qui inermis eleifend an. Pro iriure alienum incorrupte ex, cu diceret moderatius mei. Te corrumpit posidonium sit, in cum nonumy utamur. Usu impedit patrioque vituperatoribus ei, cu voluptua nominati philosophia mel. Sea at legendos percipitur, nulla dicant convenire ne duo. Veniam epicuri vis cu, ea pri alii ceteros fierent.",
+    "heading2": "Focus On What Drives Your Business",
+    "headingText2a": "Lorem ipsum dolor sit amet, ea mutat tation constituam per, mei error ocurreret definiebas ne. Te harum constituto inciderint his. Vis no delenit mediocritatem. His et debet possim perpetua, assum argumentum ne quo, constituto eloquentiam sea ne. Ne has ludus graecis fabellas.",
+    "headingText2b": "Ei est iriure partiendo, ius falli tritani accumsan ad, mea altera eripuit fierent ut. Te quem legere fastidii ius. Ei vis quod qualisque, ignota nemore cotidieque mea eu. Scripta labitur ei vel, mei case quidam corpora no, est dico sale utroque ne. Eu erroribus delicatissimi eum, ut quem veri tincidunt vim.",
+    "headingText2c": "Velit eruditi an est, cu eius graeci sed. Vel ei dolorem sapientem temporibus. No his omnes meliore maiestatis, mei iisque molestiae gubergren ex. Usu placerat liberavisse et, eam dicta blandit evertitur an. Ea vim fabellas indoctum maiestatis.",
+    "testimonial": {
+      "author": "James Holloway IV",
+      "title": "General Manager, Westside Hyundai",
+      "quote": "I have worked with and been friends with Jesse, the founder, for over 10 years.  There is no one in our industry who I would trust more to build a platform like this one."
+    }
+  },
+  "Dashboard": {
+    "jumbotronTitle": "Message Center",
+    "jumbotronSubTitle": "(0) unread messages",
+    "heading1": "Please sign in",
+    "modalheadline": "Sign-in",
+    "registerHeadline": "Create an Account",
+    "resetHeadline": "Reset your Password",
+    "modaltext": "Please sign-in or create an account to access your dashboard.",
+    "submit": "Sign-in",
+    "register": "Create Account",
+    "reset": "Reset Password"
+  },
+  "View": {
+    "items": [
+      {
+        "to": "/",
+        "text": "Easyupp"
+      },
+      {
+        "to": "/search",
+        "text": "Search"
+      },
+      {
+        "to": "/services",
+        "text": "Dealers"
+      },
+      {
+        "to": "/contact",
+        "text": "Request Access"
+      }
+    ]
+  }
+}
